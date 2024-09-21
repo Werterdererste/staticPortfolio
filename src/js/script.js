@@ -20,9 +20,19 @@ document.addEventListener('DOMContentLoaded', () => {
   
   });
 
-
 var html="";
 const preElement = document.getElementById('projekte-columns');
+let tag_color =  new Object();
+tag_color["Python"] = "is-primary";
+tag_color["C#"] = "is-link";
+tag_color["Web"] = "is-info";
+tag_color["Hacking"] = "is-success";
+tag_color["AI"] = "is-warning";
+tag_color["Game"] = "is-danger";
+tag_color["Application"] = "is-info";
+tag_color["Unity"] = "is-success";
+tag_color["MySQL"] = "is-danger";
+tag_color["Wordpress"] = "is-link";
 
 
 
@@ -44,6 +54,7 @@ fetch("src/json/projecte.json")
                 ${obj.description}
               </div>
           `
+
       var github = "";
       if (obj.github) {
         var github = `
@@ -52,14 +63,14 @@ fetch("src/json/projecte.json")
                   <button class="button" onclick="window.location.href='${obj.github}';">
                     <span class="NerdFont" > GitHub</span>
                   </button>
-                </div>
-            `;
+                </div>`;
       }
       
       var tags = '<div class="tags down-right mb-2 mr-2">';
       obj.tags.forEach(element => {
-        console.log(element.tag);
-        tags+=`<p class="tag is-light is-primary">${element.tag}</p>`;
+        
+        console.log(tag_color["Python"])
+        tags+=`<p class="tag is-light ${tag_color[element.tag2]}">${element.tag}</p>`;
       });
       
     var buttom = `
@@ -70,14 +81,10 @@ fetch("src/json/projecte.json")
           </div>
         </div>
       `;
-   //   console.log(html)
       html += top + github + tags + buttom;
       
     });
     
-
     preElement.innerHTML=html;
-    
-    console.log(html)
   });
   

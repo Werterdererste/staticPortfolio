@@ -7,7 +7,7 @@
         "tags":[
             {"tag":"AI"},
             {"tag":"Application"},
-            {"tag":"python"},
+            {"tag":"Python"},
             {"tag":"Web"}
         ]
     },
@@ -17,7 +17,9 @@
         "description":"Diese Seite hier ist die zweite version meines Portfolios. Die erste Version habe ich ebenfalls mittels WordPress 2022 erstellt aufgrund meiner Bewerbung um einen Praktikums Platz. Wegen eines geplanten server Umzuges habe ich mich dann dazu entschieden diese Seite neu zu erstellen. Ich hoffe diese gefällt euch.",
         "github":"",
         "tags":[
-            {"tag":"Web"}
+            {"tag":"Web"},
+            {"tag":"Wortpress"}
+
         ]
     },
     {
@@ -37,8 +39,8 @@
         "description":"Ziel des Projektes war es ein Chat Room mit GUI zu erstellen. Zunächst ohne Verschlüsselung, damit ich dann eine MITM (Man in the Middel) Attacke durchführen konnte. Als Server habe ich mein Raspberry Pi benutzt. Zwei Computer waren die Clients. Die Attacke selbst habe ich von einem weiteren Computer mit Hilfe von „ettercap“ und „wireshark“ durchgeführt. Im Anschluss habe ich noch eine Verschlüsselung eingebaut.",
         "github":"https://github.com/Werterdererste/ChatRoomGuiVerschl-sslung",
         "tags":[
-            {"tag":"python"},
-            {"tag":"Application"}
+            {"tag":"Application"},
+            {"tag":"Python"}
         ]
     },
     {
@@ -98,6 +100,4 @@
             {"tag":"Unity"}
         ]
     }
-    
-
 ]
