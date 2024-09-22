@@ -70,7 +70,7 @@ fetch("src/json/projecte.json")
       obj.tags.forEach(element => {
         
         console.log(tag_color["Python"])
-        tags+=`<p class="tag is-light ${tag_color[element.tag2]}">${element.tag}</p>`;
+        tags+=`<p class="tag is-light has-text-black ${tag_color[element.tag]}">${element.tag}</p>`;
       });
       
     var buttom = `

@@ -5,12 +5,14 @@ Neues Portfolio von mir.
 Diesmal Statisch ohne Wordpress.
 
 Daduch schneller günstger und sicherer. Ohne regelmäßige administration. Insgesammt also all die Nachteile von Wordpress.
+Teile werden duch json mittles js gennerriert um aufwand zu verkürzen
 
 # Eingesetzte tools
 
 - html
 - css
 - js
+- json
 - css-framework: [bulma](https://bulma.io/documentation/start/installation/)
 - Icons: [Devicon](https://github.com/devicons/devicon/)
 
