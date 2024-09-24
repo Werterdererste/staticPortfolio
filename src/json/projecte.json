@@ -12,9 +12,9 @@
         ]
     },
     {
-        "name":"Portfolio v2",
+        "name":"Portfolio v3",
         "year":"2024",
-        "description":"Diese Seite hier ist die zweite version meines Portfolios. Die erste Version habe ich ebenfalls mittels WordPress 2022 erstellt aufgrund meiner Bewerbung um einen Praktikums Platz. Wegen eines geplanten server Umzuges habe ich mich dann dazu entschieden diese Seite neu zu erstellen. Ich hoffe diese gefällt euch.",
+        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version habe ich mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines vortgeschrittenden wissens in Wordpress hab ich sie anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstllen, da mir Wordpress aus dieversen Gründen Missfält.",
         "github":"",
         "tags":[
             {"tag":"Web"},
