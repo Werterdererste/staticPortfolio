@@ -23,16 +23,16 @@ document.addEventListener('DOMContentLoaded', () => {
 var html="";
 const preElement = document.getElementById('projekte-columns');
 let tag_color =  new Object();
-tag_color["Python"] = "is-primary";
-tag_color["C#"] = "is-link";
-tag_color["Web"] = "is-info";
-tag_color["Hacking"] = "is-success";
-tag_color["AI"] = "is-warning";
-tag_color["Game"] = "is-danger";
-tag_color["Application"] = "is-info";
-tag_color["Unity"] = "is-success";
-tag_color["MySQL"] = "is-danger";
-tag_color["Wordpress"] = "is-link";
+tag_color["Python"] = "color-red";
+tag_color["C#"] = "color-yellow";
+tag_color["Web"] = "color-peach";
+tag_color["Hacking"] = "color-green";
+tag_color["AI"] = "color-teal";
+tag_color["Game"] = "color-sky";
+tag_color["Application"] = "color-blue";
+tag_color["Unity"] = "color-mauve";
+tag_color["MySQL"] = "color-rosewater";
+tag_color["Wordpress"] = "color-lavender";
 
 
 
@@ -44,7 +44,7 @@ fetch("src/json/projecte.json")
 
       var top = `
         <div class="column is-12-mobile is-7-tablet is-4-desktop is-3-fullhd is-flex">
-          <div class="card min-hight-100">
+          <div class="card min-hight-100 color-surface0">
             <div class="card-header px-2 pt-2">
               <div class="card-header-title">${obj.name}</div>
               <div class="subtitle">${obj.year}</div>
@@ -60,7 +60,7 @@ fetch("src/json/projecte.json")
         var github = `
                 <br>
                 <div class="buttons down-left ml-2 mb-2">
-                  <button class="button" onclick="window.location.href='${obj.github}';">
+                  <button class="button color-crust" onclick="window.location.href='${obj.github}';">
                     <span class="NerdFont" > GitHub</span>
                   </button>
                 </div>`;
