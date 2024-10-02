@@ -1,0 +1,87 @@
+[
+    {
+        "skilltype":"Programmiersprachen",
+        "skills":[
+            {
+                "name":"Python",
+                "img":"src/logo/python-original.svg",
+                "level":"Umfangreiche Kenntnisse"
+            },
+            {
+                "name":"C#",
+                "img":"src/logo/csharp-original.svg",
+                "level":"Tiefgreifende Kenntnisse"
+            },
+            {
+                "name":"PHP",
+                "img":"src/logo/php-original.svg",
+                "level":"Kenntnisse"
+            },
+            {
+                "name":"JavaScript",
+                "img":"src/logo/javascript-original.svg",
+                "level":"Erfahrung"
+            }
+    
+        ]
+    },
+    {
+        "skilltype":"Webtechnologien",
+        "skills":[
+            {
+                "name":"HTML",
+                "img":"src/logo/html5-original.svg",
+                "level":"Umfangreiche Kenntnisse"
+            },
+            {
+                "name":"CSS",
+                "img":"src/logo/css3-original.svg",
+                "level":"Kenntnisse"
+            },
+            {
+                "name":"Wordpress",
+                "img":"src/logo/wordpress-plain.svg",
+                "level":"Umfangreiche Kenntnisse"
+            }
+
+    
+        ]
+    },
+    {
+        "skilltype":"Betreibsysteme",
+        "skills":[
+            {
+                "name":"Linux",
+                "img":"src/logo/linux-original.svg",
+                "level":"Tiefgreifende Kenntnisse"
+            },
+            {
+                "name":"Windows",
+                "img":"src/logo/windows11-original.svg",
+                "level":"Fortgeschrittende Kenntnisse"
+            }
+    
+        ]
+    },
+    {
+        "skilltype":"Andere",
+        "skills":[
+            {
+                "name":"MySQL",
+                "img":"src/logo/mysql-original.svg",
+                "level":"Umfangreiche Kenntnisse"
+            },
+            {
+                "name":"Docker",
+                "img":"src/logo/docker-original.svg",
+                "level":"Kenntnisse"
+            },
+            {
+                "name":"Unity",
+                "img":"src/logo/unity-original.svg",
+                "level":"Fortgeschrittende Kenntnisse"
+            }
+    
+        ]
+    }
+]
