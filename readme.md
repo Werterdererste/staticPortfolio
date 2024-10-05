@@ -20,7 +20,7 @@ Teile werden duch json mittles js gennerriert um aufwand zu verkürzen
 
 Der Aufbau ist ähnlich zu meiner alten seite.
 
-Diesmal ein Pager (wenn es gut aussieht sonnst mehrere)
+Diesmal ein Pager 
 
 - Navbar
 - Bild von mir Arbeitend
@@ -30,4 +30,3 @@ Diesmal ein Pager (wenn es gut aussieht sonnst mehrere)
 - Hacking
 - Konntakt
 - Footer
-
