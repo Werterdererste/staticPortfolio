@@ -23,7 +23,23 @@
   right: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
+.img-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.img-text-centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* color from catppuccin*/
 
 .color-crust {
   background-color: #181926;
@@ -79,9 +95,15 @@
 .color-subtext1 {
   background-color: #b8c0e0;
 }
+.text-color-subtext1 {
+  color: #b8c0e0;
+}
 
 .color-text {
   background-color: #cad3f5;
+}
+.text-color-text {
+  color: #cad3f5;
 }
 
 .color-lavender {
