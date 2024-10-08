@@ -1,8 +1,19 @@
 [
-    {
+      {
+        "name":"Portfolio v3",
+        "year":"2024",
+        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version wurdem mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines Fortgeschrittenden Wissens in Wordpress hatte ich sie Anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstllen, da mir Wordpress aus dieversen Gründen Missfält.",
+        "github":"",
+        "tags":[
+            {"tag":"Web"},
+            {"tag":"Wortpress"}
+
+        ]
+    },
+    {  
         "name":"AI Assistent",
         "year":"2024",
-        "description":"Im Rahmen eines Schulprojektes im Fach Elektrotechnik habe ich einen eigenen AI Assistent im Style von Alexa, Siri und co. programmiert und gebaut. Dieser läuft komplett local ohne Internetanbindung auf einem Raspberry Pi. Über eine selbstgebaute Elektronische Schaltung wird mittels einer RGB LED der Status ausgegeben. Zudem habe ich noch ein Web-interface im Style von chatGPT erstellt.",
+        "description":"Im Rahmen eines Schulprojektes im Fach Elektrotechnik wurde von mir einen eigenen AI Assistent im Style von Alexa, Siri und co. programmiert und gebaut. Dieser läuft komplett local ohne Internetanbindung auf einem Raspberry Pi. Über eine selbstgebaute Elektronische Schaltung wird mittels einer RGB LED der Status ausgegeben. Ein eigenes Web-interface im Style von chatGPT wurde ebenfalls erstellt.",
         "github":"https://github.com/Werterdererste/ai-assistent",
         "tags":[
             {"tag":"AI"},
@@ -11,21 +22,11 @@
             {"tag":"Web"}
         ]
     },
-    {
-        "name":"Portfolio v3",
-        "year":"2024",
-        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version habe ich mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines vortgeschrittenden wissens in Wordpress hab ich sie anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstllen, da mir Wordpress aus dieversen Gründen Missfält.",
-        "github":"",
-        "tags":[
-            {"tag":"Web"},
-            {"tag":"Wortpress"}
-
-        ]
-    },
+  
     {
         "name":"Cloudspeicher",
         "year":"2024",
-        "description":"Das Ziel des Projektes war eine Cloud mit einem Account System zu erstellen. Benutzt habe ich „MySQL“ und C#. Ich habe wieder absichtlich Sicherheitslücken einprogrammiert, die es mir ermöglichten Brutal Force Attacken und SQL Injections durchzuführen. Im Anschluss habe ich diese geschlossen damit dies nicht mehr möglich ist.",
+        "description":"Das Ziel des Projektes war eine Cloud mit einem Account System zu erstellen. Benutzt wurden „MySQL“ und C#. Ich habe wieder absichtlich Sicherheitslücken einprogrammiert, die es mir ermöglichten Brutal Force Attacken und SQL Injections durchzuführen. Im Anschluss wurden diese natürlich wieder geschlossen damit dies nicht mehr möglich ist.",
         "github":"https://github.com/Werterdererste/CloudSpeicher",
         "tags":[
             {"tag":"Application"},
@@ -36,13 +37,14 @@
     {
         "name":"Chat Room GUI Verschlüsslung",
         "year":"2022",
-        "description":"Ziel des Projektes war es ein Chat Room mit GUI zu erstellen. Zunächst ohne Verschlüsselung, damit ich dann eine MITM (Man in the Middel) Attacke durchführen konnte. Als Server habe ich mein Raspberry Pi benutzt. Zwei Computer waren die Clients. Die Attacke selbst habe ich von einem weiteren Computer mit Hilfe von „ettercap“ und „wireshark“ durchgeführt. Im Anschluss habe ich noch eine Verschlüsselung eingebaut.",
+        "description":"Ziel des Projektes war es ein Chat Room mit GUI zu erstellen. Zunächst ohne Verschlüsselung, damit ich dann eine MITM (Man in the Middel) Attacke durchführen konnte. Als Server habe ich mein Raspberry Pi benutzt. Zwei Computer waren die Clients. Die Attacke selbst hatte ich von einem weiteren Computer mit Hilfe von „ettercap“ und „wireshark“ durchgeführt. Im chat wude im Anschluss noch eine Verschlüsselung eingebaut.",
         "github":"https://github.com/Werterdererste/ChatRoomGuiVerschl-sslung",
         "tags":[
             {"tag":"Application"},
             {"tag":"Python"}
         ]
     },
+    /*
     {
         "name":"Minesweeper",
         "year":"2021",
@@ -53,8 +55,8 @@
             {"tag":"Game"},
             {"tag":"Unity"}
         ]
-    }
-    ,
+    },
+    */
     {
         "name":"Passworttest",
         "year":"2021",
@@ -64,8 +66,8 @@
             {"tag":"C#"},
             {"tag":"Hacking"}
         ]
-    }
-    ,
+    },
+    /*
     {
         "name":"Cornways Game of Live v2",
         "year":"2022",
@@ -76,13 +78,12 @@
             {"tag":"Game"},
             {"tag":"Unity"}
         ]
-    }
-    ,
-    {
-        "name":"Labyrinth",
+    },
+    */  
+    {    
+        "name":"Lab Run",
         "year":"2021",
-        "description":"Zu diesem Zeitpunkt war es mein umfangreichstes Projekt. Die Grafiken habe ich selbst erstellt. Die Musik habe ich im Rahmen einer Aufgabe im Musikunterrichts selbst komponiert und später in anderen Projekten wieder benutzt. Zudem habe ich es im Google Play Store veröffentlicht (Mittlerweile dort leider nicht mehr verfügbar). Insgesamt gibt es 10 Levels. Das Ziel des Spiels ist es den Ausgang zu finden.",
-        "github":"2",
+        "description":"Ein Jump and Run spiele wurde von mir ebenfalls erstellt. Die Grafiken für dieses Spiel stammen von „gameart2d.com“. Das Projekt habe ich für Android entwickelt, jedoch anders als ursprünglich geplant, nicht im Play Store veröffentlicht, weil die anderen von mir dort veröffentlichten Spiele nur von bekannten Personen heruntergeladen wurden. Ein Shop in den man neue Charaktere kaufen kann, Einstellungen und Statistiken ist ebenfalls vorhanden",
         "tags":[
             {"tag":"C#"},
             {"tag":"Game"},
@@ -90,14 +91,15 @@
         ]
     },
     {
-        "name":"Lab Run",
+        "name":"Labyrinth",
         "year":"2021",
-        "description":"Ein Jump and Run spiele habe ich ebenfalls erstellt. Die Grafiken für dieses Spiel stammen von „gameart2d.com“. Das Projekt habe ich für Android entwickelt, jedoch anders als ursprünglich geplant, nicht im Play Store veröffentlicht, weil die anderen von mir dort veröffentlichten Spiele nur von bekannten Personen heruntergeladen wurden. Ein Shop in den man neue Charaktere kaufen kann, Einstellungen und Statistiken habe ich ebenfalls für dieses Game erstellt.",
-        "github":"https://github.com/Werterdererste/Lab-Run",
+        "description":"Zu diesem Zeitpunkt war es mein umfangreichstes Projekt. Die Grafiken wurden selbst erstellt. Die Musik habe ich im Rahmen einer Aufgabe im Musikunterrichts selbst komponiert und später in anderen Projekten wieder benutzt. Veröffentlicht wurde es im Google Play Store veröffentlicht (Mittlerweile dort leider nicht mehr verfügbar). Insgesamt gibt es 10 Levels. Das Ziel des Spiels ist es den Ausgang zu finden.",
+        "github":"2",
         "tags":[
             {"tag":"C#"},
             {"tag":"Game"},
             {"tag":"Unity"}
         ]
     }
+  
 ]
