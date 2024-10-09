@@ -2,7 +2,7 @@
       {
         "name":"Portfolio v3",
         "year":"2024",
-        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version wurdem mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines Fortgeschrittenden Wissens in Wordpress hatte ich sie Anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstellen, da mir Wordpress aus dieversen Gründen Missfält.",
+        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version wurden mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines Fortgeschrittenen Wissens in Wordpress hatte ich sie Anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstellen, da mir Wordpress aus Dreiversen Gründen Missfällt.",
         "github":"https://github.com/Werterdererste/staticPortfolio",
         "tags":[
             {"tag":"Web"}
@@ -35,7 +35,7 @@
     {
         "name":"Chat Room GUI Verschlüsslung",
         "year":"2022",
-        "description":"Ziel des Projektes war es ein Chat Room mit GUI zu erstellen. Zunächst ohne Verschlüsselung, damit ich dann eine MITM (Man in the Middel) Attacke durchführen konnte. Als Server habe ich mein Raspberry Pi benutzt. Zwei Computer waren die Clients. Die Attacke selbst hatte ich von einem weiteren Computer mit Hilfe von „ettercap“ und „wireshark“ durchgeführt. Im chat wude im Anschluss noch eine Verschlüsselung eingebaut.",
+        "description":"Ziel des Projektes war es ein Chat Room mit GUI zu erstellen. Zunächst ohne Verschlüsselung, damit ich dann eine MITM (Man in the Middel) Attacke durchführen konnte. Als Server habe ich mein Raspberry Pi benutzt. Zwei Computer waren die Clients. Die Attacke selbst hatte ich von einem weiteren Computer mit Hilfe von „ettercap“ und „Wireshark“ durchgeführt. Im chat wuden im Anschluss noch eine Verschlüsselung eingebaut.",
         "github":"https://github.com/Werterdererste/ChatRoomGuiVerschl-sslung",
         "tags":[
             {"tag":"Application"},
@@ -46,7 +46,7 @@
     {
         "name":"Passworttest",
         "year":"2021",
-        "description":"Einer meiner ersten schritte in die Cyber security war die Umsetzung eines brute force Algorithmus um Passwörter zu testen. Diesem Programm kann man ein Passwort übergeben, dieses versucht es im Anschluss zu knacken. Einige zeit später habe ich mich erneut an dieses Projekt gesetzt um einige Optimierungen vor zu nehmen. Dadurch ist mir eine signifikante Verkürzung der Zeit gelungen.",
+        "description":"Einer meiner ersten schritte in die Cyber security war die Umsetzung eines Brutal Force Algorithmus um Passwörter zu testen. Diesem Programm kann man ein Passwort übergeben, dieses versucht es im Anschluss zu knacken. Einige zeit später habe ich mich erneut an dieses Projekt gesetzt um einige Optimierungen vor zu nehmen. Dadurch ist mir eine signifikante Verkürzung der Zeit gelungen.",
         "github":"https://github.com/Werterdererste/passworttest",
         "tags":[
             {"tag":"C#"},

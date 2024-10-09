@@ -4,29 +4,29 @@
 Neues Portfolio von mir.
 Diesmal Statisch ohne Wordpress.
 
-Daduch schneller günstger und sicherer. Ohne regelmäßige administration. Insgesammt also all die Nachteile von Wordpress.
-Teile werden duch json mittles js gennerriert um aufwand zu verkürzen
+Dadurch schneller Günstiger und sicherer. Ohne regelmäßige Administration. Insgesamt also all die Nachteile von Wordpress.
+Teile werden durch json mittels js generiert um aufwand zu verkürzen
 
-# Eingesetzte tools
+# Eingesetzte Tools
 
-- html
+- HTML
 - css
-- js
-- json
-- css-framework: [bulma](https://bulma.io/documentation/start/installation/)
+- Js
+- Json
+- CSS Framework: [Bulma](https://bulma.io/documentation/start/installation/)
 - Icons: [Devicon](https://github.com/devicons/devicon/)
 
 #  Aufbau
 
 Der Aufbau ist ähnlich zu meiner alten seite.
 
-Diesmal ein Pager 
+Dies mal One Pager 
 
 - Navbar
 - Bild von mir Arbeitend
-- About me mit bild
+- About me mit Bild
 - Skills
 - Projekte
 - Hacking
-- Konntakt
+- Kontakt
 - Footer
