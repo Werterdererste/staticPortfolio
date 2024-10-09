@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Get all "navbar-burger" elements
     const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
   
-    // Add a click event on each of them
+    // Add a click event on each of theme
     $navbarBurgers.forEach( el => {
       el.addEventListener('click', () => {
   
@@ -20,8 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
   
   });
 
-var html_projekt="";
-const element_projekt = document.getElementById('projekte-columns');
+var html_project="";
+const element_project = document.getElementById('projekte-columns');
 let tag_color =  new Object();
 tag_color["Python"] = "color-red";
 tag_color["C#"] = "color-yellow";
@@ -42,7 +42,7 @@ fetch("src/json/projecte.json")
 
       var top = `
         <div class="column is-12-mobile is-7-tablet is-4-desktop is-3-fullhd is-flex">
-          <div class="card min-hight-100 color-surface0">
+          <div class="card min-height-100 color-surface0">
             <div class="card-header px-2 pt-2">
               <div class="card-header-title">${obj.name}</div>
               <div class="subtitle">${obj.year}</div>
@@ -79,11 +79,11 @@ fetch("src/json/projecte.json")
           </div>
         </div>
       `;
-      html_projekt += top + github + tags + buttom;
+      html_project += top + github + tags + buttom;
       
     });
     
-    element_projekt.innerHTML=html_projekt;
+    element_project.innerHTML=html_project;
   });
 
 
@@ -111,7 +111,7 @@ fetch("src/json/skills.json")
               <div
                 class="column is-12-mobile is-6-tablet is-4-desktop is-3-fullhd "
               >
-                <div class="card min-hight-100 color-surface0">
+                <div class="card min-height-100 color-surface0">
                   <div class="card-content has-text-centered">
                     <h1 class="title">${obj_skill.name}</h1>
                     <figure class="image is-96x96 is-inline-block">
@@ -129,12 +129,12 @@ fetch("src/json/skills.json")
 
         cards += card;
       });
-      var buttom=`
+      var button=`
           </div>
         </div>`;
 
-      html_skill+=top+cards+buttom;
-      console.log(html_projekt);
+      html_skill+=top+cards+button;
+      console.log(html_project);
     });
 
     element_skill.innerHTML=html_skill;
