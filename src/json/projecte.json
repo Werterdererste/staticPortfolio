@@ -2,7 +2,7 @@
       {
         "name":"Portfolio v3",
         "year":"2024",
-        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version wurden mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines Fortgeschrittenen Wissens in Wordpress hatte ich sie Anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstellen, da mir Wordpress aus Dreiversen Gründen Missfällt.",
+        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version wurden mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines Fortgeschrittenen Wissens in Wordpress hatte ich sie Anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstellen, da mir Wordpress aus Dreiversen Gründen missfällt.",
         "github":"https://github.com/Werterdererste/staticPortfolio",
         "tags":[
             {"tag":"Web"}
