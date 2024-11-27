@@ -18,9 +18,9 @@
                 "level":"Kenntnisse"
             },
             {
-                "name":"JavaScript",
-                "img":"src/logo/javascript-original.svg",
-                "level":"Erfahrung"
+                "name":"Java",
+                "img":"src/logo/java-original.svg",
+                "level":"Kenntnisse"
             }
     
         ]
@@ -37,6 +37,11 @@
                 "name":"CSS",
                 "img":"src/logo/css3-original.svg",
                 "level":"Kenntnisse"
+            },
+            {
+                "name":"JavaScript",
+                "img":"src/logo/javascript-original.svg",
+                "level":"Erfahrung"
             },
             {
                 "name":"Wordpress",
