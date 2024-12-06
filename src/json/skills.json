@@ -5,22 +5,22 @@
             {
                 "name":"Python",
                 "img":"src/logo/python-original.svg",
-                "level":"Umfangreiche Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽢󰽤"
             },
             {
                 "name":"C#",
                 "img":"src/logo/csharp-original.svg",
-                "level":"Tiefgreifende Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽢󰽤"
             },
             {
                 "name":"PHP",
                 "img":"src/logo/php-original.svg",
-                "level":"Kenntnisse"
+                "level":"󰽢󰽢󰽤󰽤󰽤"
             },
             {
                 "name":"Java",
                 "img":"src/logo/java-original.svg",
-                "level":"Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽤󰽤"
             }
     
         ]
@@ -31,22 +31,22 @@
             {
                 "name":"HTML",
                 "img":"src/logo/html5-original.svg",
-                "level":"Umfangreiche Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽤󰽤"
             },
             {
                 "name":"CSS",
                 "img":"src/logo/css3-original.svg",
-                "level":"Kenntnisse"
+                "level":"󰽢󰽢󰽤󰽤󰽤"
             },
             {
                 "name":"JavaScript",
                 "img":"src/logo/javascript-original.svg",
-                "level":"Erfahrung"
+                "level":"󰽢󰽤󰽤󰽤󰽤"
             },
             {
                 "name":"Wordpress",
                 "img":"src/logo/wordpress-plain.svg",
-                "level":"Umfangreiche Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽤󰽤"
             }
 
     
@@ -58,12 +58,12 @@
             {
                 "name":"Linux",
                 "img":"src/logo/linux-original.svg",
-                "level":"Tiefgreifende Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽤󰽤"
             },
             {
                 "name":"Windows",
                 "img":"src/logo/windows11-original.svg",
-                "level":"Fortgeschrittende Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽤󰽤"
             }
     
         ]
@@ -74,17 +74,17 @@
             {
                 "name":"MySQL",
                 "img":"src/logo/mysql-original.svg",
-                "level":"Umfangreiche Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽢󰽤"
             },
             {
                 "name":"Docker",
                 "img":"src/logo/docker-original.svg",
-                "level":"Kenntnisse"
+                "level":"󰽢󰽤󰽤󰽤󰽤"
             },
             {
                 "name":"Unity",
                 "img":"src/logo/unity-original.svg",
-                "level":"Fortgeschrittende Kenntnisse"
+                "level":"󰽢󰽢󰽢󰽤󰽤"
             }
     
         ]

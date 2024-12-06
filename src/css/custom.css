@@ -3,9 +3,16 @@
     src: url("../font/SymbolsNerdFont-Regular.ttf");
   }
 
-.NerdFont {
+  @font-face {
+    font-family: DepartureNerdFont;
+    src: url("../font/DepartureMonoNerdFont-Regular.otf");
+  }
+
+.Font {
     font-family: SymbolNerdFont;
+    font-family: DepartureNerdFont;
 }
+
 
 .min-height-100{
   height: 100%;
