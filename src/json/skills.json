@@ -5,22 +5,22 @@
             {
                 "name":"Python",
                 "img":"src/logo/python-original.svg",
-                "level":"󰽢󰽢󰽢󰽢󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
             },
             {
                 "name":"C#",
                 "img":"src/logo/csharp-original.svg",
-                "level":"󰽢󰽢󰽢󰽢󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
             },
             {
                 "name":"PHP",
                 "img":"src/logo/php-original.svg",
-                "level":"󰽢󰽢󰽤󰽤󰽤"
+                "level":"󰽢 󰽢 󰽤 󰽤 󰽤"
             },
             {
                 "name":"Java",
                 "img":"src/logo/java-original.svg",
-                "level":"󰽢󰽢󰽢󰽤󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
             }
     
         ]
@@ -31,22 +31,22 @@
             {
                 "name":"HTML",
                 "img":"src/logo/html5-original.svg",
-                "level":"󰽢󰽢󰽢󰽤󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
             },
             {
                 "name":"CSS",
                 "img":"src/logo/css3-original.svg",
-                "level":"󰽢󰽢󰽤󰽤󰽤"
+                "level":"󰽢 󰽢 󰽤 󰽤 󰽤"
             },
             {
                 "name":"JavaScript",
                 "img":"src/logo/javascript-original.svg",
-                "level":"󰽢󰽤󰽤󰽤󰽤"
+                "level":"󰽢 󰽤 󰽤 󰽤 󰽤"
             },
             {
                 "name":"Wordpress",
                 "img":"src/logo/wordpress-plain.svg",
-                "level":"󰽢󰽢󰽢󰽤󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
             }
 
     
@@ -58,12 +58,12 @@
             {
                 "name":"Linux",
                 "img":"src/logo/linux-original.svg",
-                "level":"󰽢󰽢󰽢󰽤󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
             },
             {
                 "name":"Windows",
                 "img":"src/logo/windows11-original.svg",
-                "level":"󰽢󰽢󰽢󰽤󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
             }
     
         ]
@@ -74,17 +74,17 @@
             {
                 "name":"MySQL",
                 "img":"src/logo/mysql-original.svg",
-                "level":"󰽢󰽢󰽢󰽢󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
             },
             {
                 "name":"Docker",
                 "img":"src/logo/docker-original.svg",
-                "level":"󰽢󰽤󰽤󰽤󰽤"
+                "level":"󰽢 󰽤 󰽤 󰽤 󰽤"
             },
             {
                 "name":"Unity",
                 "img":"src/logo/unity-original.svg",
-                "level":"󰽢󰽢󰽢󰽤󰽤"
+                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
             }
     
         ]
