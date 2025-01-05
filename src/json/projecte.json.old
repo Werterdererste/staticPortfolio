@@ -94,7 +94,6 @@
         "name":"Labyrinth",
         "year":"2021",
         "description":"Zu diesem Zeitpunkt war es mein umfangreichstes Projekt. Die Grafiken wurden selbst erstellt. Die Musik habe ich im Rahmen einer Aufgabe im Musikunterrichts selbst komponiert und später in anderen Projekten wieder benutzt. Veröffentlicht wurde es im Google Play Store veröffentlicht (Mittlerweile dort leider nicht mehr verfügbar). Insgesamt gibt es 10 Levels. Das Ziel des Spiels ist es den Ausgang zu finden.",
-        "github":"2",
         "tags":[
             {"tag":"C#"},
             {"tag":"Game"},
