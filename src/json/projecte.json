@@ -1,4 +1,14 @@
 [
+    {
+        "name":"3D Engine",
+        "year":"2024",
+        "description":"Aufgrund der in der Mathematik Vorlesung behandelten Linearen Abbildung im ersten Semester, kam ich auf die Idee das Erworbene wissen in die praxis umzusetzen. So habe ich mich dazu entschieden eine 3d Engine zu programmieren die es ermöglicht 3d Objekte zu zeichnen. Diese einfache 3d engine ermöglicht es OBJ Dateien zu zeichnen. Die Objekte besitzen Transformations Eigenschaften und können sich bewegen.",
+        "github":"https://github.com/Werterdererste/3dEngine",
+        "tags":[
+            {"tag":"Java"},
+            {"tag":"Application"}
+        ]
+    },
       {
         "name":"Portfolio v3",
         "year":"2024",

@@ -26,6 +26,7 @@ let tag_color =  new Object();
 tag_color["Python"] = "color-red";
 tag_color["C#"] = "color-yellow";
 tag_color["Web"] = "color-peach";
+tag_color["Java"] = "color-maroon";
 tag_color["Hacking"] = "color-green";
 tag_color["AI"] = "color-teal";
 tag_color["Game"] = "color-sky";
@@ -67,7 +68,7 @@ fetch("src/json/projecte.json")
       var tags = '<div class="tags down-right mb-2 mr-2">';
       obj.tags.forEach(element => {
         
-        console.log(tag_color["Python"])
+        console.log(tag_color["Java"])
         tags+=`<p class="tag is-light has-text-black ${tag_color[element.tag]}">${element.tag}</p>`;
       });
       
@@ -134,7 +135,6 @@ fetch("src/json/skills.json")
         </div>`;
 
       html_skill+=top+cards+button;
-      console.log(html_project);
     });
 
     element_skill.innerHTML=html_skill;
