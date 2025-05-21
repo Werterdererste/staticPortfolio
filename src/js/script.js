@@ -34,6 +34,8 @@ tag_color["Application"] = "color-blue";
 tag_color["Unity"] = "color-mauve";
 tag_color["MySQL"] = "color-rosewater";
 tag_color["Wordpress"] = "color-lavender";
+tag_color["Mikrocontroller"] = "color-sapphire";
+tag_color["CC++"] = "color-flamingo";
 
 fetch("src/json/projecte.json")
   .then(response => response.json())
@@ -64,7 +66,18 @@ fetch("src/json/projecte.json")
                   </button>
                 </div>`;
       }
-      
+
+      var gitlab = "";
+      if (obj.gitlab) {
+        var gitlab = `
+                <br>
+                <div class="buttons down-left ml-2 mb-2">
+                  <button class="button color-gitlab" onclick="window.location.href='${obj.gitlab}';">
+                    <span class="NerdFont has-text-black" >󰮠 GitLab</span>
+                  </button>
+                </div>`;
+      }
+
       var tags = '<div class="tags down-right mb-2 mr-2">';
       obj.tags.forEach(element => {
         
@@ -80,7 +93,7 @@ fetch("src/json/projecte.json")
           </div>
         </div>
       `;
-      html_project += top + github + tags + buttom;
+      html_project += top + github + gitlab + tags + buttom;
       
     });
     
@@ -139,5 +152,3 @@ fetch("src/json/skills.json")
 
     element_skill.innerHTML=html_skill;
   });
-
-  

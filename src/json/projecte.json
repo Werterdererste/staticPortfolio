@@ -1,5 +1,15 @@
 [
     {
+        "name":"Roboter Arm",
+        "year":"2025",
+        "description":"Mein Aktuelles projekt. In meinem Hackspace hab ich mittels eines 3D druckers angefangen einen eigenen Roboter Arm zu bauen die Steuerung läuft über eine ESP32. In diesem Projekt habe ich C++ das erstemal verwendet. Die steuerung erfolgt über ein web interface. Aktuell in Arbeit ist eine Steuerung mittels eines Controllers. Zwischenzeitlich hatte ich das Project pausiert.",
+        "gitlab":"https://github.com/Werterdererste/3dEngine",
+        "tags":[
+            {"tag":"C/C++"},
+            {"tag":"Mikrocontroller"}
+        ]
+    },
+     {
         "name":"3D Engine",
         "year":"2024",
         "description":"Aufgrund der in der Mathematik Vorlesung behandelten Linearen Abbildung im ersten Semester, kam ich auf die Idee das Erworbene wissen in die praxis umzusetzen. So habe ich mich dazu entschieden eine 3d Engine zu programmieren die es ermöglicht 3d Objekte zu zeichnen. Diese einfache 3d engine ermöglicht es OBJ Dateien zu zeichnen. Die Objekte besitzen Transformations Eigenschaften und können sich bewegen.",
@@ -73,5 +83,4 @@
             {"tag":"Unity"}
         ]
     }
-  
 ]
