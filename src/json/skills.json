@@ -21,6 +21,11 @@
                 "name":"Java",
                 "img":"src/logo/java-original.svg",
                 "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
+            },
+            {
+                "name":"C",
+                "img":"src/logo/c-original.svg",
+                "level":"󰽢 󰽢 󰽤 󰽤 󰽤"
             }
     
         ]
@@ -63,8 +68,12 @@
                 "name":"Windows",
                 "img":"src/logo/windows11-original.svg",
                 "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
+            },
+            {
+                "name":"OpenBSD",
+                "img":"src/logo/openbsd.svg",
+                "level":"󰽢 󰽤 󰽤 󰽤 󰽤"
             }
-    
         ]
     },
     {
