@@ -129,7 +129,7 @@ fetch("src/json/skills.json")
                   <div class="card-content has-text-centered">
                     <h1 class="title">${obj_skill.name}</h1>
                     <figure class="image is-96x96 is-inline-block">
-                      <img src="${obj_skill.img}" />
+                      <img src="${obj_skill.img}" loading="lazy"/>
                     </figure>
                   </div>
                   <div class="card-footer">
