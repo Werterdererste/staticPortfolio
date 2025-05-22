@@ -1,12 +1,14 @@
-@font-face {
+/*@font-face {
     font-family: SymbolNerdFont;
     src: url("../font/SymbolsNerdFont-Regular.ttf");
+    font-display: swap;
   }
-
+*/
   @font-face {
     font-family: DepartureNerdFont;
-    src: url("../font/DepartureMonoNerdFont-Regular.otf");
-  }
+    src: url("../font/DepartureMonoNFM-Regular.woff2");
+    font-display: swap;
+}
 
 .Font {
     font-family: SymbolNerdFont;
