@@ -2,7 +2,7 @@
     {
         "name":"Roboter Arm",
         "year":"2025",
-        "description":"Mein Aktuelles projekt. In meinem Hackspace hab ich mittels eines 3D druckers einen eigenen Roboter Arm zu bauen die Steuerung läuft über eine ESP32 mittels web interface. Aktuell in Arbeit ist eine Steuerung mittels eines Controllers. In diesem Projekt habe ich C++ das erstemal verwendet. Zwischenzeitlich hatte ich das Project pausiert.",
+        "description":"Mein Aktuelles Projekt. In meinem Hackspace baue ich mittels eines 3D druckers einen eigenen Roboter Arm. Die Steuerung läuft über eine ESP32 mittels web interface. Aktuell in Arbeit ist eine Steuerung mittels eines Controllers. In diesem Projekt habe ich C++ das erstemal verwendet. Zwischenzeitlich hatte ich das Project pausiert.",
         "gitlab":"https://github.com/Werterdererste/3dEngine",
         "tags":[
             {"tag":"C/C++"},
@@ -12,7 +12,7 @@
      {
         "name":"3D Engine",
         "year":"2024",
-        "description":"Aufgrund der in der Mathematik Vorlesung behandelten Linearen Abbildung im ersten Semester, kam ich auf die Idee das Erworbene wissen in die praxis umzusetzen. So habe ich mich dazu entschieden eine 3d Engine zu programmieren die es ermöglicht 3d Objekte zu zeichnen. Diese 3d Engine ermöglicht es OBJ Dateien zu zeichnen. Die Objekte besitzen Transformations Eigenschaften und können sich bewegen.",
+        "description":"Aufgrund der in der Mathematik Vorlesung behandelten Linearen Abbildung im ersten Semester, kam ich auf die Idee das Erworbene wissen in die praxis umzusetzen. So habe ich mich dazu entschieden eine 3d Engine die es ermöglicht 3d Objekte zu zeichnen zu Programmieren. Diese 3d Engine ermöglicht es OBJ Dateien zu zeichnen. Die Objekte besitzen Transformations Eigenschaften und können sich bewegen.",
         "github":"https://github.com/Werterdererste/3dEngine",
         "tags":[
             {"tag":"Java"},
@@ -22,7 +22,7 @@
       {
         "name":"Portfolio v3",
         "year":"2024",
-        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version wurden mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines Fortgeschrittenen Wissens in Wordpress hatte ich sie Anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstellen, da mir Wordpress aus Dreiversen Gründen missfällt.",
+        "description":"Diese Seite hier ist die dritte version meines Portfolios. Die erste und zweite Version wurden mittels WordPress erstellt. Aufgrund meiner Bewerbung um einen Praktikums Platz 2022 hab ich die erste Version erstellt. Aufgrund meines Fortgeschrittenen Wissens in Wordpress hatte ich sie Anfang 2024 neu erstellt. Schlussendlich habe ich mich doch dazu entschieden eine einfache statische Webseite zu erstellen, da mir Wordpress aus Diversen Gründen missfällt.",
         "github":"https://github.com/Werterdererste/staticPortfolio",
         "tags":[
             {"tag":"Web"}
@@ -31,7 +31,7 @@
     {  
         "name":"AI Assistent",
         "year":"2024",
-        "description":"Im Rahmen eines Schulprojektes im Fach Elektrotechnik wurde von mir einen eigenen AI Assistent im Style von Alexa, Siri und co. programmiert und gebaut. Dieser läuft komplett local ohne Internetanbindung auf einem Raspberry Pi. Über eine selbstgebaute Elektronische Schaltung wird mittels einer RGB LED der Status ausgegeben. Ein eigenes Web-interface im Style von chatGPT wurde ebenfalls erstellt.",
+        "description":"Im Rahmen eines Schulprojektes im Fach elektrotechnik wurde von mir ein eigener AI Assistent im Style von Alexa, Siri und co. programmiert und gebaut. Dieser läuft komplett local ohne Internetanbindung auf einem Raspberry Pi. Über eine selbstgebaute elektronische Schaltung wird mittels einer RGB LED der Status ausgegeben. Ein eigenes Web-interface im Style von ChatGPT wurde ebenfalls erstellt.",
         "github":"https://github.com/Werterdererste/ai-assistent",
         "tags":[
             {"tag":"AI"},
@@ -44,7 +44,7 @@
     {
         "name":"Cloudspeicher",
         "year":"2024",
-        "description":"Das Ziel des Projektes war eine Cloud mit einem Account System zu erstellen. Benutzt wurden „MySQL“ und C#. Ich habe wieder absichtlich Sicherheitslücken einprogrammiert, die es mir ermöglichten Brutal Force Attacken und SQL Injections durchzuführen. Im Anschluss wurden diese natürlich wieder geschlossen damit dies nicht mehr möglich ist.",
+        "description":"Das Ziel des Projektes war eine Cloud mit einem Account System zu erstellen. Benutzt wurden „MySQL“ und C#. Ich habe wieder absichtlich Sicherheitslücken einprogrammiert, die es mir ermöglichten Brutal Force Attacken und SQL Injections durchzuführen. Im Anschluss wurden diese wieder geschlossen damit dies nicht mehr möglich ist.",
         "github":"https://github.com/Werterdererste/CloudSpeicher",
         "tags":[
             {"tag":"Application"},
@@ -55,7 +55,7 @@
     {
         "name":"Chat Room GUI Verschlüsslung",
         "year":"2022",
-        "description":"Ziel des Projektes war es ein Chat Room mit GUI zu erstellen. Zunächst ohne Verschlüsselung, damit ich dann eine MITM (Man in the Middel) Attacke durchführen konnte. Als Server habe ich mein Raspberry Pi benutzt. Zwei Computer waren die Clients. Die Attacke selbst hatte ich von einem weiteren Computer mit Hilfe von „ettercap“ und „Wireshark“ durchgeführt. Im chat wuden im Anschluss noch eine Verschlüsselung eingebaut.",
+        "description":"Ziel des Projektes war es ein Chat Room mit GUI zu erstellen. Zunächst ohne Verschlüsselung, damit ich dann eine MITM (Man in the Middel) Attacke durchführen konnte. Als Server habe ich mein Raspberry Pi benutzt. Zwei Computer waren die Clients. Die Attacke selbst hatte ich von einem weiteren Computer mit Hilfe von „ettercap“ und „Wireshark“ durchgeführt. Im chat wurde im Anschluss noch eine Verschlüsselung eingebaut.",
         "github":"https://github.com/Werterdererste/ChatRoomGuiVerschl-sslung",
         "tags":[
             {"tag":"Application"},
@@ -66,7 +66,7 @@
     {
         "name":"Passworttest",
         "year":"2021",
-        "description":"Einer meiner ersten schritte in die Cyber security war die Umsetzung eines Brutal Force Algorithmus um Passwörter zu testen. Diesem Programm kann man ein Passwort übergeben, dieses versucht es im Anschluss zu knacken. Einige zeit später habe ich mich erneut an dieses Projekt gesetzt um einige Optimierungen vor zu nehmen. Dadurch ist mir eine signifikante Verkürzung der Zeit gelungen.",
+        "description":"Einer meinen ersten Schritte in die Cyber security war die Umsetzung eines Brutal Force Algorithmus um Passwörter zu testen. Diesem Programm kann man ein Passwort übergeben, dieses versucht es im Anschluss zu knacken. Einige Zeit später habe ich mich erneut an dieses Projekt gesetzt um einige Optimierungen vor zu nehmen. Dadurch ist mir eine signifikante Verkürzung der Zeit gelungen.",
         "github":"https://github.com/Werterdererste/passworttest",
         "tags":[
             {"tag":"C#"},
@@ -76,7 +76,7 @@
     {
         "name":"Labyrinth",
         "year":"2021",
-        "description":"Zu diesem Zeitpunkt war es mein umfangreichstes Projekt. Die Grafiken wurden selbst erstellt. Die Musik habe ich im Rahmen einer Aufgabe im Musikunterrichts selbst komponiert und später in anderen Projekten wieder benutzt. Veröffentlicht wurde es im Google Play Store veröffentlicht (Mittlerweile dort leider nicht mehr verfügbar). Insgesamt gibt es 10 Levels. Das Ziel des Spiels ist es den Ausgang zu finden.",
+        "description":"Die Grafiken habe ich selbst erstellt. Die Musik habe ich im Rahmen einer Aufgabe im Musikunterricht selbst komponiert und später in anderen Projekten wieder benutzt. Veröffentlicht wurde es im Google Play Store (Mittlerweile dort leider nicht mehr verfügbar). Insgesamt gab es 10 Levels. Das Ziel des Spiels ist es den Ausgang zu finden.",
         "tags":[
             {"tag":"C#"},
             {"tag":"Game"},

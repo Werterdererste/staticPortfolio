@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 var html_project="";
-const element_project = document.getElementById('projekte-columns');
+const element_project = document.getElementById('projects-columns');
 let tag_color =  new Object();
 tag_color["Python"] = "color-red";
 tag_color["C#"] = "color-yellow";
