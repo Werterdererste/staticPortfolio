@@ -2,7 +2,7 @@
     {
         "name":"Roboter Arm",
         "year":"2025",
-        "description":"Mein Aktuelles Projekt. In meinem Hackspace baue ich mittels eines 3D druckers einen eigenen Roboter Arm. Die Steuerung läuft über eine ESP32 mittels web interface. Aktuell in Arbeit ist eine Steuerung mittels eines Controllers. In diesem Projekt habe ich C++ das erstemal verwendet. Zwischenzeitlich hatte ich das Project pausiert.",
+        "description":"Mein Aktuelles Projekt. In meinem Hackspace baue ich mittels eines 3D druckers einen eigenen Roboter Arm. Die Steuerung läuft über eine ESP32 mittels web interface. Aktuell in Arbeit ist eine Steuerung mittels eines Controllers. In diesem Projekt habe ich C++ das erstemal verwendet.",
         "gitlab":"https://github.com/Werterdererste/3dEngine",
         "tags":[
             {"tag":"C/C++"},
