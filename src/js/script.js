@@ -4,8 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
   
     // Add a click event on each of theme
-    $navbarBurgers.forEach( el => {
-      el.addEventListener('click', () => {
+    $navbarBurgers.forEach( el => { el.addEventListener('click', () => {
   
         // Get the target from the "data-target" attribute
         const target = el.dataset.target;
@@ -36,6 +35,7 @@ tag_color["MySQL"] = "color-rosewater";
 tag_color["Wordpress"] = "color-lavender";
 tag_color["Mikrocontroller"] = "color-sapphire";
 tag_color["CC++"] = "color-flamingo";
+tag_color["Raumfahrt"] = "color-pink";
 
 fetch("src/json/projecte.json")
   .then(response => response.json())

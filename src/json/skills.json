@@ -40,7 +40,7 @@
       {
         "name": "CSS",
         "img": "src/logo/css3-original.svg",
-        "level": "󰽢 󰽢 󰽤 󰽤 󰽤"
+        "level": "󰽢 󰽤 󰽤 󰽤 󰽤"
       },
       {
         "name": "JavaScript",
@@ -85,7 +85,7 @@
       {
         "name": "Docker",
         "img": "src/logo/docker-original.svg",
-        "level": "󰽢 󰽤 󰽤 󰽤 󰽤"
+        "level": "󰽢 󰽢 󰽤 󰽤 󰽤"
       },
       {
         "name": "Unity",
