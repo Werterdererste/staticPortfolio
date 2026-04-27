@@ -1,100 +1,97 @@
 [
-    {
-        "skilltype":"Programmiersprachen",
-        "skills":[
-            {
-                "name":"Python",
-                "img":"src/logo/python-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
-            },
-            {
-                "name":"C#",
-                "img":"src/logo/csharp-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
-            },
-            {
-                "name":"PHP",
-                "img":"src/logo/php-original.svg",
-                "level":"󰽢 󰽢 󰽤 󰽤 󰽤"
-            },
-            {
-                "name":"Java",
-                "img":"src/logo/java-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
-            },
-            {
-                "name":"C",
-                "img":"src/logo/c-original.svg",
-                "level":"󰽢 󰽢 󰽤 󰽤 󰽤"
-            }
-    
-        ]
-    },
-    {
-        "skilltype":"Webtechnologien",
-        "skills":[
-            {
-                "name":"HTML",
-                "img":"src/logo/html5-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
-            },
-            {
-                "name":"CSS",
-                "img":"src/logo/css3-original.svg",
-                "level":"󰽢 󰽢 󰽤 󰽤 󰽤"
-            },
-            {
-                "name":"JavaScript",
-                "img":"src/logo/javascript-original.svg",
-                "level":"󰽢 󰽤 󰽤 󰽤 󰽤"
-            },
-            {
-                "name":"Wordpress",
-                "img":"src/logo/wordpress-plain.svg",
-                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
-            }
-
-        ]
-    },
-    {
-        "skilltype":"Betreibsysteme",
-        "skills":[
-            {
-                "name":"Linux",
-                "img":"src/logo/linux-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
-            },
-            {
-                "name":"Windows",
-                "img":"src/logo/windows11-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
-            },
-            {
-                "name":"OpenBSD",
-                "img":"src/logo/openbsd.svg",
-                "level":"󰽢 󰽤 󰽤 󰽤 󰽤"
-            }
-        ]
-    },
-    {
-        "skilltype":"Andere",
-        "skills":[
-            {
-                "name":"MySQL",
-                "img":"src/logo/mysql-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽢 󰽤"
-            },
-            {
-                "name":"Docker",
-                "img":"src/logo/docker-original.svg",
-                "level":"󰽢 󰽤 󰽤 󰽤 󰽤"
-            },
-            {
-                "name":"Unity",
-                "img":"src/logo/unity-original.svg",
-                "level":"󰽢 󰽢 󰽢 󰽤 󰽤"
-            }
-    
-        ]
-    }
+  {
+    "skilltype": "Programmiersprachen",
+    "skills": [
+      {
+        "name": "Python",
+        "img": "src/logo/python-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽢 󰽤"
+      },
+      {
+        "name": "C#",
+        "img": "src/logo/csharp-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽢 󰽤"
+      },
+      {
+        "name": "PHP",
+        "img": "src/logo/php-original.svg",
+        "level": "󰽢 󰽢 󰽤 󰽤 󰽤"
+      },
+      {
+        "name": "Java",
+        "img": "src/logo/java-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽢 󰽤"
+      },
+      {
+        "name": "C",
+        "img": "src/logo/c-original.svg",
+        "level": "󰽢 󰽢 󰽤 󰽤 󰽤"
+      }
+    ]
+  },
+  {
+    "skilltype": "Webtechnologien",
+    "skills": [
+      {
+        "name": "HTML",
+        "img": "src/logo/html5-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽤 󰽤"
+      },
+      {
+        "name": "CSS",
+        "img": "src/logo/css3-original.svg",
+        "level": "󰽢 󰽢 󰽤 󰽤 󰽤"
+      },
+      {
+        "name": "JavaScript",
+        "img": "src/logo/javascript-original.svg",
+        "level": "󰽢 󰽤 󰽤 󰽤 󰽤"
+      },
+      {
+        "name": "Wordpress",
+        "img": "src/logo/wordpress-plain.svg",
+        "level": "󰽢 󰽢 󰽢 󰽤 󰽤"
+      }
+    ]
+  },
+  {
+    "skilltype": "Betreibsysteme",
+    "skills": [
+      {
+        "name": "Linux",
+        "img": "src/logo/linux-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽢 󰽤"
+      },
+      {
+        "name": "Windows",
+        "img": "src/logo/windows11-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽤 󰽤"
+      },
+      {
+        "name": "OpenBSD",
+        "img": "src/logo/openbsd.svg",
+        "level": "󰽢 󰽤 󰽤 󰽤 󰽤"
+      }
+    ]
+  },
+  {
+    "skilltype": "Andere",
+    "skills": [
+      {
+        "name": "MySQL",
+        "img": "src/logo/mysql-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽢 󰽤"
+      },
+      {
+        "name": "Docker",
+        "img": "src/logo/docker-original.svg",
+        "level": "󰽢 󰽤 󰽤 󰽤 󰽤"
+      },
+      {
+        "name": "Unity",
+        "img": "src/logo/unity-original.svg",
+        "level": "󰽢 󰽢 󰽢 󰽤 󰽤"
+      }
+    ]
+  }
 ]
