@@ -2,7 +2,7 @@
   {
     "name": "Wettersateliten Empfangen",
     "year": "2026",
-    "description": "Angefangen habe ich mit TinyGS und den empfang von Meta Daten via LoRa. Bin jedoch schnell auf eine Selbst gebaute V-Dipol Antenne gewächselt mit der ich Wetterbilder von Meteor-M Satelliten auf 137 MHz empfangen kann. Etwas später habe ich auch eine Parabol Antenne für 1.7 KHz gebaut mit der ich Hochauflösende Bilder unteranderem von Meteor-M und Metop empfangen habe.",
+    "description": "Angefangen habe ich mit TinyGS und den empfang von Meta Daten via LoRa. Bin jedoch schnell auf eine Selbst gebaute V-Dipol Antenne gewächselt mit der ich Wetterbilder von Meteor-M Satelliten auf 137 MHz empfangen kann. Etwas später habe ich auch eine Parabol Antenne für 1.7 KHz gebaut mit der ich Hochauflösende Bilder unteranderem von Meteor-M und Metop empfangen habe. Auf der Easterhegg 23 habe ich ein Lighning Talk über mein projekt gehalten.",
     "tags": [
       {
         "tag": "Raumfahrt"
