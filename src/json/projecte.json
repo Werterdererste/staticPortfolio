@@ -2,7 +2,7 @@
   {
     "name": "Wettersateliten Empfangen",
     "year": "2026",
-    "description": "Angefangen habe ich mit TinyGS und den empfang von Meta Daten via LoRa. Bin jedoch schnell auf eine Selbst gebaute V-Dipol Antenne gewächselt mit der ich Wetterbilder von Meteor-M Satelliten auf 137 MHz empfangen kann. Etwas später habe ich auch eine Parabol Antenne für 1.7 KHz gebaut mit der ich Hochauflösende Bilder unteranderem von Meteor-M und Metop empfangen habe. Auf der Easterhegg 23 habe ich ein Lighning Talk über mein projekt gehalten.",
+    "description": "Angefangen habe ich mit TinyGS und den Empfang von Meta Daten via LoRa. Bin jedoch schnell auf eine Selbst gebaute V-Dipol Antenne Gewechselt mit der ich Wetterbilder von Meteor-M Satelliten auf 137 MHz empfangen kann. Etwas später habe ich auch eine Parabel Antenne für 1.7 KHz gebaut mit der ich Hochauflösende Bilder unter anderem von Meteor-M und Metop empfangen habe. Auf der Easterhegg 23 habe ich ein Lightning Talk über mein Projekt gehalten.",
     "link": "https://satellit.arslanagic.de",
     "tags": [
       {
@@ -13,7 +13,7 @@
   {
     "name": "Roboter Arm",
     "year": "2025",
-    "description": "Dadurch das ich im Hackspace zugang zu einem 3D Drucker habe, hab ich damit begonen Roboter Arm zu bauen. Die Steuerung läuft über eine ESP32 mittels web interface. Eine Steuerung mittels eines Controllers ist auch möglich. In diesem Projekt habe ich C++ das erstemal verwendet. Aufgrund von mechanischen Problemen habe ichs abgebrochen.",
+    "description": "Dadurch das ich im Hackspace Zugang zu einem 3D Drucker habe, hab ich damit begonnen Roboter Arm zu bauen. Die Steuerung läuft über eine ESP32 mittels web Interface. Eine Steuerung mittels eines Controllers ist auch möglich. In diesem Projekt habe ich C++ das erst mal verwendet. Aufgrund von mechanischen Problemen habe ich es abgebrochen.",
     "gitlab": "https://github.com/Werterdererste/3dEngine",
     "tags": [
       {
