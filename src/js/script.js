@@ -77,6 +77,18 @@ fetch("src/json/projecte.json")
                   </button>
                 </div>`;
       }
+     var link = "";
+      if (obj.link) {
+        var link = `
+                <br>
+                <div class="buttons down-left ml-2 mb-2">
+                  <button class="button color-link" onclick="window.location.href='${obj.link}';">
+                    <span class="NerdFont has-text-black" >󰌷 Website</span>
+                  </button>
+                </div>`;
+      }
+
+
 
       var tags = '<div class="tags down-right mb-2 mr-2">';
       obj.tags.forEach(element => {
@@ -93,7 +105,7 @@ fetch("src/json/projecte.json")
           </div>
         </div>
       `;
-      html_project += top + github + gitlab + tags + buttom;
+      html_project += top + github + gitlab + link + tags + buttom;
       
     });
     
